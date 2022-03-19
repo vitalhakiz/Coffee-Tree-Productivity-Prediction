@@ -1,0 +1,2 @@
+# Coffee-Tree-Productivity-Prediction
+A country recently finished data collection project that aims to measure the various household and farmer characteristics of coffee farmers that attended any coffee training agronomy program. Therefore, in this project, I am looking for better understanding and predicting coffee tree productivity and its relationship with good agronomic practices that are taught in the coffee training program
